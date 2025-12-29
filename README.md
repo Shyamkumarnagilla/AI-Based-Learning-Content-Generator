@@ -18,20 +18,6 @@ This project demonstrates the practical application of AI, NLP, and backend deve
 
 ---
 
-## Project Structure
-
-AI-Based-Learning-Content-Generator/
-│
-├── Dataset/ # Datasets used for training and testing
-├── Training/ # AI and model training logic
-├── TrainingApp/ # Django application files
-├── manage.py # Django project entry point
-├── requirements.txt # Project dependencies
-├── run.bat # Windows run script
-├── testData.csv # Sample dataset
-└── instructions.txt # Setup and usage instructions
----
-
 ## Technologies Used
 
 - Python  
